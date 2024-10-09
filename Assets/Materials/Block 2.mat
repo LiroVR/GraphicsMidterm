@@ -59,6 +59,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _mainTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _rampTexture:
         m_Texture: {fileID: 2800000, guid: ef7181d26cb039b40a46d37ee47aa694, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -82,7 +86,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     - _emissionStrength: 0
-    - _rimEmission: 2.94
+    - _rimEmission: 0
     - _rimPower: 5.82
     m_Colors:
     - _Color: {r: 0, g: 1, b: 0.24778461, a: 1}
